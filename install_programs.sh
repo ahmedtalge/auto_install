@@ -42,6 +42,7 @@ flatpaks=(
     "org.telegram.desktop"
     "org.telegram.desktop.webview"
     "com.github.unrud.VideoDownloader"
+    "org.qbittorrent.qBittorrent"
     "io.github.giantpinkrobots.varia"
     "org.flameshot.Flameshot"
     "org.kde.okular"
